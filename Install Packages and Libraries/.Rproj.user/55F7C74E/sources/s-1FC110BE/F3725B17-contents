@@ -1,0 +1,6 @@
+install.packages("palmerpenguins")
+library(palmerpenguins)
+install.packages("tidyverse")
+library(tidyverse)
+install.packages("lubridate")
+library(lubridate)

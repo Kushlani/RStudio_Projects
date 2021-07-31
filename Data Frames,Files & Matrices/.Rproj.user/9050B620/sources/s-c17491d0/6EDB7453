@@ -1,0 +1,27 @@
+{
+    "id": "6EDB7453",
+    "path": "/cloud/project/Data Frames,Files & Matrices.R",
+    "project_path": "Data Frames,Files & Matrices.R",
+    "type": "r_source",
+    "hash": "1665151432",
+    "contents": "",
+    "dirty": false,
+    "created": 1626695407692.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "24,0",
+        "scrollLine": "10"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1627711612,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1627711612643,
+    "read_only": false,
+    "read_only_alternatives": []
+}

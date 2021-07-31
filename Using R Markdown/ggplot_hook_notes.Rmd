@@ -1,0 +1,19 @@
+---
+title: "ggplot_hook_notes"
+author: "Kushlani"
+date: "7/29/2021"
+output: html_document
+---
+
+## Setting up my environment
+Notes: setting up my R environment by loading 'tidyverse' and 'palmerpenguins' packages
+
+```{r loading packages}
+library(tidyverse)
+library(palmerpenguins)
+```
+```{r}
+ggplot(data = penguins) +
+  geom_point(mapping = aes(x=flipper_length_mm,y=body_mass_g))
+```
+

@@ -1,0 +1,27 @@
+{
+    "id": "141DD869",
+    "path": "/cloud/project/Facet function.R",
+    "project_path": "Facet function.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1627527396565.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1627551515,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1627551515707,
+    "read_only": false,
+    "read_only_alternatives": []
+}
